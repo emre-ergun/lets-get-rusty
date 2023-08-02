@@ -1,5 +1,5 @@
-use my_crate::PrimaryColor;
-use my_crate::mix;
+use engramsoft_art::PrimaryColor;
+use engramsoft_art::mix;
 
 fn main() {
     let red = PrimaryColor::Red;
